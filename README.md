@@ -24,7 +24,6 @@ Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/26125
   - [Waf-a-mole: Evading web application firewalls through adversarial machine learning](https://dl-acm-org.proxy.findit.dtu.dk/doi/pdf/10.1145/3341105.3373962)
 
 **MLaaS**
-- (June 2019) [Evasion attacks against watermarking techniques found in MLaaS systems](https://ieeexplore-ieee-org.proxy.findit.dtu.dk/stamp/stamp.jsp?tp=&arnumber=8768572)
     - (2021) [Preventing Watermark Forging Attacks in a MLaaS Environment](https://scitepress.org/Link.aspx?doi=10.5220/0010560602950306)
     - (Feb 2018) [Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring](https://arxiv.org/abs/1802.04633)
 - [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/pdf/1609.02943.pdf)
@@ -51,6 +50,8 @@ Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/26125
       - Snyder object detection på azure og google lcoud
 - Extraction:
     - [Attacking and Defending Machine Learning Applications of Public Cloud](https://ieeexplore-ieee-org.proxy.findit.dtu.dk/document/9311938)
+    - [Evasion attacks against watermarking techniques found in MLaaS systems](https://ieeexplore-ieee-org.proxy.findit.dtu.dk/stamp/stamp.jsp?tp=&arnumber=8768572)
+      - (June 2019)
 ---
 ## Report structure
 
