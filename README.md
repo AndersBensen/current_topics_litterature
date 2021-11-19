@@ -13,8 +13,6 @@ Learning as a Service—A Comprehensive Survey](https://ieeexplore.ieee.org/stam
   - [Simple Transparent Adversarial Examples](https://arxiv.org/pdf/2105.09685.pdf)
   - [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/pdf/2007.07646.pdf)
   - [Github: Awesome ML privacy attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks)
-  - [Simple Transparent Adversarial Examples](https://findit.dtu.dk/en/catalog/2689044810)
-      - Snyder object detection på azure og google lcoud
   - [Special-purpose Model Extraction Attacks:
 Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/2612513804)
     
@@ -49,6 +47,8 @@ Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/26125
     - [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/pdf/1806.01246.pdf)
     - [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
     - [Disguised-Nets: Image Disguising for Privacy-preserving Outsourced Deep Learning](https://arxiv.org/pdf/1902.01878.pdf)
+    - [Simple Transparent Adversarial Examples](https://findit.dtu.dk/en/catalog/2689044810)
+      - Snyder object detection på azure og google lcoud
 ---
 ## Report structure
 
