@@ -37,6 +37,7 @@ Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/26125
         - Snyder google perspective (?)
     - [TEXTBUGGER: Generating Adversarial Text Against Real-world Applications](https://arxiv.org/pdf/1812.05271.pdf)
         - Snyder diverse MLaaS med evasion
+    - [FastWordBug: A Fast Method To Generate Adversarial Text Against NLP Applications] (https://arxiv.org/abs/2002.00760)  
 - I billeder (CV): 
     - [Attacking Automatic Video Analysis Algorithms: A Case Study of Google Cloud Video Intelligence API](https://arxiv.org/pdf/1708.04301.pdf)
     - [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/pdf/1806.01246.pdf)
