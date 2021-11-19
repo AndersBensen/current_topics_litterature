@@ -49,6 +49,8 @@ Stealing Coarse Model with Fewer Queries](https://findit.dtu.dk/en/catalog/26125
     - [Disguised-Nets: Image Disguising for Privacy-preserving Outsourced Deep Learning](https://arxiv.org/pdf/1902.01878.pdf)
     - [Simple Transparent Adversarial Examples](https://findit.dtu.dk/en/catalog/2689044810)
       - Snyder object detection på azure og google lcoud
+- Extraction:
+    - [Attacking and Defending Machine Learning Applications of Public Cloud](https://ieeexplore-ieee-org.proxy.findit.dtu.dk/document/9311938)
 ---
 ## Report structure
 
